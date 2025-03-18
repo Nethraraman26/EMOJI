@@ -1,0 +1,168 @@
+body{
+    background-color: lightseagreen;
+}
+.wrapper{
+    padding:30px;
+}
+h1{
+    text-align:center;
+}
+.emoji-face1{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+    left:590px;
+}
+.eye1{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:30px;
+}
+.eye2{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:60px;
+}
+.mouth1{
+    position:absolute;
+    height:35px;
+    width:70px;
+    background-color: black;
+    border-radius:0 0 70px 70px;
+    top: 55px;
+    left:15px;
+    overflow:hidden;
+}
+.toungue1{
+    position: absolute;
+    background-color: hotpink;
+    width:50px;
+    height:50px;
+    border-radius: 40%;
+    top:15px;
+    left:10px;
+    z-index:1;
+}
+
+
+.emoji-face2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+    left:590px;
+}
+.eye3{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:30px;
+}
+.eye4{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:60px;
+}
+.mouth2{
+    position:absolute;
+    height:30px;
+    width:25px;
+    background-color: black;
+    border-radius:100%;
+    top: 55px;
+    left:38px;
+    overflow:hidden;
+}
+
+
+
+.emoji-face3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+    left:590px;
+}
+.eye5{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:30px;
+}
+.eye6{
+    position: absolute;
+    height:10px;
+    width:12px;
+    border-radius:50%;
+    background-color: black;
+    top:30px;
+    left:60px;
+}
+.mouth3{
+    position:absolute;
+    height:5px;
+    width:37px;
+    background-color: black;
+    top: 65px;
+    left:32px;
+    overflow:hidden;
+}
+
+
+.emoji-face4{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    position: relative;
+    top: 30px;
+    left:590px;
+}
+.eye7{
+    position: absolute;
+    height: 5px;
+    width: 15px;
+    background-color: black;
+    top: 35px;
+    right: 29px;
+}
+.eye8{
+    position: absolute;
+    height: 5px;
+    width: 15px;
+    border-radius: 50px;
+    background-color: black;
+    top: 35px;
+    left: 29px;
+}
+.mouth4{
+    position:absolute;
+    height:5px;
+    width:37px;
+    background-color: black;
+    top: 65px;
+    left:32px;
+    overflow:hidden;
+}
